@@ -5,7 +5,7 @@
     },
     {
         "name": "Power BI",
-        "icon": "https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021"
+        "icon": "https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021.png"
     },
     {
         "name": "Python",
@@ -13,11 +13,11 @@
     },
     {
         "name": "R",
-        "icon": "https://icons8.com/icon/CLvQeiwFpit4/r-project"
+        "icon": "https://icons8.com/icon/CLvQeiwFpit4/r-project.png"
     },
     {
         "name": "C",
-        "icon": "https://icons8.com/icon/40670/c-programming"
+        "icon": "https://icons8.com/icon/40670/c-programming.png"
     },
     {
         "name": "MongoDB",
@@ -33,14 +33,14 @@
     },
     {
         "name": "MATLAB",
-        "icon": "https://icons8.com/icon/r5Y16PcDkoWI/matlab"
+        "icon": "https://icons8.com/icon/r5Y16PcDkoWI/matlab.png"
     },
     {
         "name": "MS Office",
-        "icon": "https://icons8.com/icon/37619/office-365"
+        "icon": "https://icons8.com/icon/37619/office-365.png"
     },
     {
         "name": "HTML",
-        "icon": "https://icons8.com/icon/1043/html"
+        "icon": "https://icons8.com/icon/1043/html.png"
     }    
 ]
