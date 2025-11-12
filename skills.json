@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Tableau",
+        "icon": "https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software"
+    },
+    {
+        "name": "Power BI",
+        "icon": https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "R",
+        "icon": "https://icons8.com/icon/CLvQeiwFpit4/r-project"
+    },
+    {
+        "name": "C",
+        "icon": "https://icons8.com/icon/40670/c-programming"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "MATLAB",
+        "icon": "https://icons8.com/icon/r5Y16PcDkoWI/matlab"
+    },
+    {
+        "name": "MS Office",
+        "icon": "https://icons8.com/icon/37619/office-365"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://icons8.com/icon/1043/html"
+    }    
+]
