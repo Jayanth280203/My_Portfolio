@@ -30,8 +30,13 @@ Here’s a preview of my portfolio design 👇
 ## 🖼️ Sneak Peek
 Here’s a preview of my portfolio 👇  
 
-![portfolio-preview](https://github.com/Jayanth280203/jayanth-portfolio/blob/main/Screenshot%20(177).png?raw=true)
-![portfolio-preview-2](https://user-images.githubusercontent.com/your-image-link2.png)
+## 🖼️ Sneak Peek  
+Here’s a preview of my portfolio 👇  
+
+![portfolio-preview-1](https://github.com/Jayanth280203/jayanth-portfolio/blob/main/Screenshot%20(177).png?raw=true)
+
+![portfolio-preview-2](https://github.com/Jayanth280203/jayanth-portfolio/blob/main/Screenshot%20(178).png?raw=true)
+
 
 ---
 
