@@ -27,7 +27,10 @@ A personal **Portfolio Website** built using **HTML5**, **CSS3**, **JavaScript**
 Here’s a preview of my portfolio design 👇  
 *(Replace with your own screenshots)*
 
-![portfolio-preview](https://user-images.githubusercontent.com/your-image-link1.png)
+## 🖼️ Sneak Peek
+Here’s a preview of my portfolio 👇  
+
+![portfolio-preview](https://github.com/Jayanth280203/jayanth-portfolio/blob/main/Screenshot%20(177).png?raw=true)
 ![portfolio-preview-2](https://user-images.githubusercontent.com/your-image-link2.png)
 
 ---
