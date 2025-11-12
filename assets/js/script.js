@@ -70,12 +70,15 @@ document.addEventListener('visibilitychange', function () {
 });
 
 // --- Typing text animation ---
+// --- Typing text animation ---
 var typed = new Typed(".typing-text", {
-    strings: ["Data Scientist ,Data Analyst ,Business Analyst"],
+    strings: ["Data Scientist", "Data Analyst", "Business Analyst"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
     backDelay: 500,
+});
+
 });
 
 // --- Fetch skills only (disabled projects for now) ---
