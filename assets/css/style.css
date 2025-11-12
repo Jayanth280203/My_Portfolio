@@ -1223,3 +1223,27 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+/* ===== Custom Social Icon (Phone) Style ===== */
+.share a {
+  margin: 0 8px;
+  color: #fff;
+  font-size: 1.3rem;
+  transition: 0.3s;
+}
+
+.share a:hover {
+  color: #ffcc00;
+  transform: scale(1.2);
+}
+
+/* Phone icon special hover effect */
+.share a.fa-phone {
+  background: rgb(230, 230, 230);
+  color: #02094b;
+}
+
+.share a.fa-phone:hover {
+  color: #25d366; /* WhatsApp-like green */
+  transform: scale(1.3);
+  box-shadow: 0 0 10px #25d366;
+}
