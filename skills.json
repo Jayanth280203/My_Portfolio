@@ -8,6 +8,10 @@
     "icon": "https://img.icons8.com/color/48/000000/power-bi.png"
   },
   {
+    "name": "Google Analytics",
+    "icon": "https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg"
+  },
+  {
     "name": "Python",
     "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
   },
