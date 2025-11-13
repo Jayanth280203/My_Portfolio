@@ -1435,3 +1435,9 @@ form .button-area {
   .cert-inner { min-height: 18rem; }
   .cert-back ul { font-size: 1.15rem; }
 }
+/* Fix size only for Google Analytics icon */
+.skills-card img[src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg"] {
+    width: 48px !important;
+    height: 48px !important;
+    object-fit: contain;
+}
