@@ -208,33 +208,3 @@ document.onkeydown = function (e) {
   window.addEventListener('resize', toggleHoverOnTouch);
 
 })();
-/* ============================================
-   🌙 THEME TOGGLE (Dark / Light Mode)
-   ============================================ */
-const toggleBtn = document.getElementById("theme-toggle");
-const icon = toggleBtn.querySelector("i");
-
-// Load saved theme
-if (localStorage.getItem("theme") === "dark") {
-    document.body.classList.add("dark-mode");
-    icon.classList.remove("fa-moon");
-    icon.classList.add("fa-sun");
-}
-
-// Toggle theme
-toggleBtn.addEventListener("click", () => {
-    document.body.classList.toggle("dark-mode");
-
-    const isDark = document.body.classList.contains("dark-mode");
-
-    // Switch icon
-    if (isDark) {
-        icon.classList.remove("fa-moon");
-        icon.classList.add("fa-sun");
-        localStorage.setItem("theme", "dark");
-    } else {
-        icon.classList.remove("fa-sun");
-        icon.classList.add("fa-moon");
-        localStorage.setItem("theme", "light");
-    }
-});
